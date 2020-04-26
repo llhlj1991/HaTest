@@ -14,6 +14,7 @@
 		A41D73FB24553B93009AA969 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41D73FA24553B93009AA969 /* Assets.xcassets */; };
 		A41D73FE24553B93009AA969 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41D73FC24553B93009AA969 /* LaunchScreen.storyboard */; };
 		A41D740124553B93009AA969 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D740024553B93009AA969 /* main.m */; };
+		A41D7412245542EA009AA969 /* test4.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D7411245542EA009AA969 /* test4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		A41D73FD24553B93009AA969 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A41D73FF24553B93009AA969 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A41D740024553B93009AA969 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A41D7410245542EA009AA969 /* test4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test4.h; sourceTree = "<group>"; };
+		A41D7411245542EA009AA969 /* test4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				A41D73FC24553B93009AA969 /* LaunchScreen.storyboard */,
 				A41D73FF24553B93009AA969 /* Info.plist */,
 				A41D740024553B93009AA969 /* main.m */,
+				A41D7410245542EA009AA969 /* test4.h */,
+				A41D7411245542EA009AA969 /* test4.m */,
 			);
 			path = TestDemo;
 			sourceTree = "<group>";
@@ -148,6 +153,7 @@
 			files = (
 				A41D73F624553B92009AA969 /* ViewController.m in Sources */,
 				A41D73F024553B92009AA969 /* AppDelegate.m in Sources */,
+				A41D7412245542EA009AA969 /* test4.m in Sources */,
 				A41D740124553B93009AA969 /* main.m in Sources */,
 				A41D73F324553B92009AA969 /* SceneDelegate.m in Sources */,
 			);
