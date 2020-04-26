@@ -15,6 +15,7 @@
 		A41D73FE24553B93009AA969 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41D73FC24553B93009AA969 /* LaunchScreen.storyboard */; };
 		A41D740124553B93009AA969 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D740024553B93009AA969 /* main.m */; };
 		A41D7409245541C8009AA969 /* test1.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D7408245541C8009AA969 /* test1.m */; };
+		A41D740C245541F5009AA969 /* test2.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D740B245541F5009AA969 /* test2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		A41D740024553B93009AA969 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A41D7407245541C8009AA969 /* test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test1.h; sourceTree = "<group>"; };
 		A41D7408245541C8009AA969 /* test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test1.m; sourceTree = "<group>"; };
+		A41D740A245541F5009AA969 /* test2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test2.h; sourceTree = "<group>"; };
+		A41D740B245541F5009AA969 /* test2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				A41D740024553B93009AA969 /* main.m */,
 				A41D7407245541C8009AA969 /* test1.h */,
 				A41D7408245541C8009AA969 /* test1.m */,
+				A41D740A245541F5009AA969 /* test2.h */,
+				A41D740B245541F5009AA969 /* test2.m */,
 			);
 			path = TestDemo;
 			sourceTree = "<group>";
@@ -151,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A41D740C245541F5009AA969 /* test2.m in Sources */,
 				A41D73F624553B92009AA969 /* ViewController.m in Sources */,
 				A41D73F024553B92009AA969 /* AppDelegate.m in Sources */,
 				A41D740124553B93009AA969 /* main.m in Sources */,
