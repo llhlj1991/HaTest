@@ -20,6 +20,7 @@
 		A41D7412245542EA009AA969 /* test4.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D7411245542EA009AA969 /* test4.m */; };
 		A41D74182456C482009AA969 /* dev1.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D74172456C482009AA969 /* dev1.m */; };
 		A41D741B2456C4B0009AA969 /* dev2.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D741A2456C4B0009AA969 /* dev2.m */; };
+		A41D74242456CABE009AA969 /* master11.m in Sources */ = {isa = PBXBuildFile; fileRef = A41D74232456CABE009AA969 /* master11.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,8 @@
 		A41D74172456C482009AA969 /* dev1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dev1.m; sourceTree = "<group>"; };
 		A41D74192456C4B0009AA969 /* dev2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dev2.h; sourceTree = "<group>"; };
 		A41D741A2456C4B0009AA969 /* dev2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dev2.m; sourceTree = "<group>"; };
+		A41D74222456CABE009AA969 /* master11.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = master11.h; sourceTree = "<group>"; };
+		A41D74232456CABE009AA969 /* master11.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = master11.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,8 @@
 				A41D74172456C482009AA969 /* dev1.m */,
 				A41D74192456C4B0009AA969 /* dev2.h */,
 				A41D741A2456C4B0009AA969 /* dev2.m */,
+				A41D74222456CABE009AA969 /* master11.h */,
+				A41D74232456CABE009AA969 /* master11.m */,
 			);
 			path = TestDemo;
 			sourceTree = "<group>";
@@ -180,6 +185,7 @@
 				A41D740C245541F5009AA969 /* test2.m in Sources */,
 				A41D740F2455421F009AA969 /* test3.m in Sources */,
 				A41D73F624553B92009AA969 /* ViewController.m in Sources */,
+				A41D74242456CABE009AA969 /* master11.m in Sources */,
 				A41D73F024553B92009AA969 /* AppDelegate.m in Sources */,
 				A41D7412245542EA009AA969 /* test4.m in Sources */,
 				A41D74182456C482009AA969 /* dev1.m in Sources */,
